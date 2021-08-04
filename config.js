@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: 'Yoann',
   imageBackground: false,
   openInNewTab: true,
 
@@ -22,11 +22,11 @@ const CONFIG = {
   greetingNight: 'Go to Sleep!',
 
   // Weather
-  weatherKey: 'InsertYourAPIKeyHere123456',
+  weatherKey: '9be5420ba3232254ff1bdfe4be5bfa1f',
   weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
   weatherUnit: 'C',
-  weatherLatitude: '37.774929',
-  weatherLongitude: '-122.419418',
+  weatherLatitude: '48.837009',
+  weatherLongitude: '2.630090',
   
 
   // ┌─┐┌─┐┬─┐┌┬┐┌─┐
@@ -45,28 +45,22 @@ const CONFIG = {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://mailbox.org/',
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://calendar.google.com/calendar/r',
-    },
-    {
-      id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
-    },
-    {
-      id: '5',
       name: 'Reddit',
       icon: 'bookmark',
       link: 'https://reddit.com',
     },
     {
-      id: '6',
+      id: '4',
+      name: 'Youtube',
+      icon: 'youtube',
+      link: 'https://youtube.com/',
+    },
+    {
+      id: '5',
       name: 'Odysee',
       icon: 'youtube',
       link: 'https://odysee.com/',
